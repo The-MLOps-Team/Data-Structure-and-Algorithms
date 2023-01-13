@@ -31,4 +31,6 @@ int main()
     {
         cout<< sorted[i] << " ";
     }
+
+    return 0;
 }
